@@ -1,0 +1,38 @@
+html{
+    /* This image will be displayed fullscreen */
+ 
+
+    /* Ensure the html element always takes up the full height of the browser window */
+    min-height:100%;
+
+    /* The Magic */
+    background-size:cover;
+}
+
+body {
+    /* Workaround for some mobile browsers */
+    min-height:100%;    
+    padding-top: 20px;
+    padding-bottom: 20px;           
+    background:url('img1.jpg') no-repeat center center;
+}
+
+.navbar {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    font-weight: bold;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-brand:hover{
+    color:yellow;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+ color: yellow;
+}
+
