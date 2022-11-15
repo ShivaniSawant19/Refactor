@@ -1,0 +1,27 @@
+html,body{
+  background-color: rgb(92, 91, 91);
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+   background-color: rgb(66, 61, 61);
+}
+.card{
+   background-color: rgb(43, 41, 41);
+}
+
+em {
+   color: rgb(99, 99, 99);
+}
+
+.card{
+   margin: 0.2rem;
+}
+
+.fa-solid {
+   color: grey;
+}
+
+.fa-trash {
+   color: red;
+}
